@@ -1,5 +1,5 @@
 const logo =
-  "https://vicious-turquoise-aybitkycgt.edgeone.app/1000059418-removebg-preview.png?updatedAt=1750349700579";
+  "https://i.ibb.co/hJpm30KP/1000059418-removebg-preview.png?updatedAt=1750349700579";
 const backend =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/backend.png?updatedAt=1749961127387";
 const creator =

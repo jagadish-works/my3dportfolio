@@ -20,7 +20,7 @@ module.exports = {
       },
       backgroundImage: {
         "hero-pattern":
-          "url('https://ik.imagekit.io/bqzlidc77g/my%20portfolio/herobg.png?updatedAt=1749961111628&tr=f-auto')",
+          "url('https://image2url.com/r2/default/images/1768715206126-458ccc48-bade-4583-a44f-2884c136f696.jpg?updatedAt=1749961111628&tr=f-auto')",
       },
     },
   },
